@@ -1,13 +1,14 @@
 import React from 'react'
-import { HeaderImages } from './HeaderImage'
-import { MainGenres } from './MainGenres'
-import { MainGenresList } from './MainGenresList'
-import { MainPlans } from './MainPlans'
-import { MainSummary } from './MainSummary'
+import HeaderImages  from '../src/componentes/HeaderImage'
+import MainGenres  from '../src/componentes/MainGenres'
+import MainGenresList from '../src/componentes/MainGenresList'
+import MainPlans  from '../src/componentes/MainPlans'
+import MainSummary from '../src/componentes/MainSummary'
 import Image from 'next/image'
-import searchRock from './assets/searchRock.jpg'
-import searchPop from './assets/searchPop.jpg'
-import { MainSearch } from './MainSearch'
+import searchRock from '../src/assets/searchRock.jpg'
+import searchPop from '../src/assets/searchPop.jpg'
+import  MainSearch from '../src/componentes/MainSearch'
+
 const genres = [
   {
     tittle: "Rock",
