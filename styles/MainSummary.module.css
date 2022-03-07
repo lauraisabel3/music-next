@@ -1,0 +1,13 @@
+.main__summary {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.main__summary h1{
+    text-align: center;
+}
+
+.main__summary p{
+    text-align: center;
+}
