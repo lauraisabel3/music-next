@@ -1,5 +1,6 @@
 .HeaderImage{
     width: 100%;
+    max-width: 720px;
     height: 200px;
     margin: 0 auto;
     border-top-left-radius: 24px;

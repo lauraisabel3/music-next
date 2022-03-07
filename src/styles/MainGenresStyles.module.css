@@ -1,5 +1,6 @@
 .main__genres_container{
     width: 100%;
+    max-width: 720px;
     height: 100px;
     padding: 20px;
     margin: 12px 0 12px 0;
